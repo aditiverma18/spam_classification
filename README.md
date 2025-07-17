@@ -28,6 +28,7 @@ As a beginner exploring NLP, this project helped me learn:
 - 🧠 Building a basic **feature extractor** for text
 - ⚙️ Training and evaluating an ML model using **Scikit-learn**
 - 💾 Saving models using `pickle` for future use
+- Using HTML and CSS for frontend
 ---
 
 ## 🛠 Tech Stack
@@ -37,3 +38,5 @@ As a beginner exploring NLP, this project helped me learn:
 - NLTK
 - Pandas, NumPy
 - Regular Expressions (`re`)
+- HTML
+- CSS
